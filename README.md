@@ -1,10 +1,7 @@
 # Political Action Committee Man
 
-Bless his heart, Rep. William Timmons only has 1.2% of his individual contributions from small unitemized payments.
-Compare this to the 36% for Thomas Massie.
-
-
-
+Bless his heart, <a href="https://www.fec.gov/data/candidate/H8SC04250/?cycle=2026&election_full=true">Rep. William Timmons</a> only has 1.2% of his individual contributions from small unitemized payments. <br>
+Compare this to the 36% for <a href="https://www.fec.gov/data/candidate/H2KY04121/">Thomas Massie</a>.
 
 
 
