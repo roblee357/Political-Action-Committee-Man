@@ -1,4 +1,10 @@
-# pacman-canvas
+# Political Action Committee Man
+
+Bless his heart, Rep. William Timmons only has 1.2% of his individual contributions from small unitemized payments.
+Compare this to the 36% for Thomas Massie.
+
+
+
 
 > This is a port of platzhersh's https://github.com/platzhersh/pacman-canvas
 
@@ -25,4 +31,3 @@ If you want to see the console logs in your browser, use the `npm run start:dev`
 
 To modify the game for your needs, look at the `pacman-canvas.js` file and make your modifications.
 To change the look and feel, edit the `pacman-canvas.css` file or also the `index.htm`file, where everything comes together.
-
