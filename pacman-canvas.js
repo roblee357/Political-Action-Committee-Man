@@ -1258,11 +1258,12 @@ function geronimo() {
 			//console.log("reset pacman");
 		}
 		this.dieAnimation = function () {
-			this.angle1 += 0.05;
-			this.angle2 -= 0.05;
-			if (this.angle1 >= this.direction.angle1 + 0.7 || this.angle2 <= this.direction.angle2 - 0.7) {
+			this.angle1 -= 0.05;
+			this.angle2 += 0.05;
+			if (this.angle1 <= this.direction.angle1 + 0.7 || this.angle2 >= this.direction.angle2 - 0.7) {
 				this.dieFinal();
 			}
+			console.log( pacman.angle1,this.direction.angle1 + 0.7 ,pacman.angle2,this.direction.angle2 - 0.7 )
 		}
 		this.die = function () {
 			Sound.play("die");
@@ -1338,7 +1339,7 @@ function drawPacman() {
 			
     }
 
-	console.log(pacman.dirX, rawOpening, opening,pacman.angle1,pacman.angle2)
+	// console.log(pacman.dirX, rawOpening, opening,pacman.angle1,pacman.angle2)
     // Optional: smaller opening when truly idle (no direction at all yet)
     // if (lastMoveDirection.dirX === 0 && lastMoveDirection.dirY === 0) {
     //     opening = 0.06;
