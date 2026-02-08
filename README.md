@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/79e41b38-beb2-471d-aa65-040ef1ff578e
+
+
+
 # Political Action Committee Man
 
 Bless his heart, <a href="https://www.fec.gov/data/candidate/H8SC04250/?cycle=2026&election_full=true">Rep. William Timmons</a> only has 1.2% of his individual contributions from small unitemized payments. <br>
